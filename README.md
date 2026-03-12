@@ -49,5 +49,6 @@ gcc filename.c -o program
 ./program
 
 ## Author
+Developed by **[Mitesh Rana](https://github.com/Miteshrana11)**  
 
-Mitesh Rana
+___
