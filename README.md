@@ -38,7 +38,7 @@ I created these projects to build a strong foundation in **C programming** befor
 
 1. Clone the repository
 
- * git clone   *https://github.com/your-username/C-Projects.git
+ * git clone   *https://github.com/Miteshrana11/C-Projects.git
 
 2. Compile the program
 
