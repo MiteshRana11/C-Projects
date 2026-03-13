@@ -19,4 +19,6 @@ A basic calculator program written in C that performs arithmetic operations.
 ## How to Run
 
 gcc simplecalculator.c -o calc
+
 ./calc
+
